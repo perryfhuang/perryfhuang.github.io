@@ -5,15 +5,6 @@
 ## Objectives
 
 
-## Installation
-
-1. [Download](../../archive/master.zip) this template.
-1. Unzip and rename the template directory.
-1. Empty [`README.md`](README.md) and fill with your own content.
-1. Move into the new project and `git init`.
-1. Create a [Github User Site](https://pages.github.com/) repository as the remote for your portfolio.
-1. Push to your user site `master` branch to deploy or update your site.
-
 ## Purpose
 
 What do you want people to find when they google you?
